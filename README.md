@@ -6,7 +6,7 @@
 
 ## 下载使用
 
-[下载 Windows 便携版 v1.4.0](releases/ScreenLite-v1.4.0-Windows.zip)
+[下载 Windows 便携版 v1.4.0](https://github.com/KuriyamaMirai08/ScreenLite/raw/refs/heads/main/releases/ScreenLite-v1.4.0-Windows.zip)
 
 解压整个文件夹后运行 `ScreenLite.exe`。升级前先右键托盘图标退出旧版，再覆盖完整文件夹；**务必保留 `ScreenLite.exe.config`，原生高 DPI 配置在此文件中**。
 
@@ -68,3 +68,4 @@ DDC/CI 需要在显示器菜单中开启。HDR、复制显示、扩展坞、转�
 ## 许可
 
 当前未指定开源许可证；公开仓库用于展示、下载和查看源码。若要将源码用于其他项目或重新分发，请先与仓库作者确认许可。
+

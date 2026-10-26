@@ -1,0 +1,9 @@
+ScreenLite.exe
+TestResults/
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.pdb
+*.log
